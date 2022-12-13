@@ -190,7 +190,7 @@ function draw() {
       loves.i = "j";
     }
 
-    if (fsrReading == "1") {
+    if (fsrReading == "0") {
       if (jatekos.zuhanas == false) {
         jatekos.ugras = true;
       }
